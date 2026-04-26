@@ -66,6 +66,6 @@ Track and field requires dedication, training, and consistency. This project hel
 
  Author
 
-Your Name
+Aidan Shiels
 
 
