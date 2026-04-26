@@ -1,4 +1,4 @@
- Track & Field Training Project
+ Track & Field project
 
  About This Project
 
@@ -8,14 +8,11 @@ This project is about **track and field training**, including workouts, events, 
 
  Events Covered
 
-### Sprinting
+### Track events
 
 * 100m
 * 200m
 * 400m
-
-### Distance Running
-
 * 800m
 * 1600m
 
